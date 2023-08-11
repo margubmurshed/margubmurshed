@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Margub Murshed</h1>
 <h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **Next.js, NodeJS**
+- 🌱 I’m currently learning **NextJS, NodeJS**
 
-- 💬 Ask me about **javascript, react, node, express, and MongoDB**
+- 💬 Ask me about **JavaScript, ReactJS, NodeJS, ExpressJS, and MongoDB**
 
 - 📫 Reach me at **murshedmargub@gmail.com**
 
