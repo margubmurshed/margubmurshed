@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Margub Murshed</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **NodeJS, ExpressJS and MongoDB**
+- 🌱 I’m currently learning **Next.js, NodeJS**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **javascript, react, node, express, and MongoDB**
 
 - 📫 Reach me at **murshedmargub@gmail.com**
 
@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/margubmurshed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="margubmurshed" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/margubmurshed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="margubmurshed" height="30" width="40" /></a>
-<a href="https://fb.com/margubmurshed1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="margubmurshed1" height="30" width="40" /></a>
+<a href="https://fb.com/margub32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="margubmurshed1" height="30" width="40" /></a>
 <a href="https://instagram.com/margubmurshed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="margubmurshed" height="30" width="40" /></a>
 </p>
 
