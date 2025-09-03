@@ -33,3 +33,17 @@
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=margubmurshed&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=6">
   <img height="50%" width="auto" src ="https://streak-stats.demolab.com?user=margubmurshed&theme=dark&short_numbers=true">
 </p>
+
+
+<div align="center">
+
+### Let's connect!
+
+Explore my portfolio at [margub.vercel.app](https://margub.vercel.app/), and let's connect on [LinkedIn](https://www.linkedin.com/in/margubmurshed/). <br>
+Email me at [murshedmargub@gmail.com](mailto:murshedmargub@gmail.com)
+
+[![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=margubmurshed&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/margubmurshed/) [![GitHub followers](https://img.shields.io/github/followers/margubmurshed.svg?label=Follow%20@margubmurshed&style=social)](https://github.com/margubmurshed/)
+
+**Let's code, connect, and create awesome things together!**
+
+</div>
