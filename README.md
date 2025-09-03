@@ -26,7 +26,7 @@
 <br>
 <br>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=margubmurshed&theme=github-dark-dimmed&custom_title=My%20Github%20Activity%20Graph&hide_border=true)](https://github.com/margubmurshed/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=&theme=github-dark-dimmed&custom_title=My%20Github%20Activity%20Graph&hide_border=true)](https://github.com/margubmurshed/github-readme-activity-graph)
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=margubmurshed&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues,contribs&bg_color=00000000">
